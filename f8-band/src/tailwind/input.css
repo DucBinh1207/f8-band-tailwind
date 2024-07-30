@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+  @apply block px-[24px] py-[12px] font-lato text-[15px] leading-[22.5px] text-white;
+}

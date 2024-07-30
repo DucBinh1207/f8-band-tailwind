@@ -1,0 +1,29 @@
+/* @keyframes banner_slide {
+  0% {
+    opacity: 0;
+    display: none;
+  }
+  10% {
+    opacity: 1;
+    display: block;
+  }
+  33.33333333% {
+    opacity: 0;
+    display: none;
+  }
+}
+
+.image1 {
+  animation: banner_slide 9s infinite;
+  animation-delay: 0s;
+}
+
+.image2 {
+  animation: banner_slide 9s infinite;
+  animation-delay: 3s;
+}
+
+.image3 {
+  animation: banner_slide 9s infinite;
+  animation-delay: 6s;
+} */
